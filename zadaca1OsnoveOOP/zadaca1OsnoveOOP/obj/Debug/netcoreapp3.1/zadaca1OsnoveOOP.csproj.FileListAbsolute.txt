@@ -1,0 +1,14 @@
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.exe
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.deps.json
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.runtimeconfig.json
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.runtimeconfig.dev.json
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.dll
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\bin\Debug\netcoreapp3.1\zadaca1OsnoveOOP.pdb
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.csproj.AssemblyReference.cache
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.AssemblyInfoInputs.cache
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.AssemblyInfo.cs
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.csproj.CoreCompileInputs.cache
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.dll
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.pdb
+C:\Users\Braja\Source\Repos\zadaca1OsnoveOOP\zadaca1OsnoveOOP\obj\Debug\netcoreapp3.1\zadaca1OsnoveOOP.genruntimeconfig.cache
