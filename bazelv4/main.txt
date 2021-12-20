@@ -1,0 +1,73 @@
+CREATE FUNCTION ablje (@string CHAR(30))
+RETURNS CHAR(30)
+BEGIN
+	DECLARE @reverseString CHAR(30);
+	SET @reverseString = REVERSE(@reverseString);
+	RETURN IIF(@string == @reverseString, "palindrom", @reverseString);
+END
+
+CREATE PROCEDURE ablje @string CHAR(30)
+AS
+	DECLARE @reverseString CHAR(30)
+	SET @string = "jovan"
+	SET @reverseString = REVERSE(@string)
+	PRINT IIF(@string == @reverseString, "palindrom", @reverseString)
+
+CREATE TRIGGER ablje
+ON racuni
+FOR INSERT
+AS 
+DECLARE @string CHAR(30);
+SELECT @string = imeRacuna
+FROM racuni;
+UPDATE racuni SET imeRacuna = REVERSE(@string);
+
+CREATE PROCEDURE ablje @date DATETIME
+AS
+	IF MONTH(@date) >= 3 AND MONTH(@date) <= 4 AND DAYOFMONTH(@date) >= 21 AND DAYOFMONTH(@date) <= 20{
+		PRINT "ovan";
+	}ELSE 
+
+	IF MONTH(@date) >= 4 AND MONTH(@date) <= 5 AND DAYOFMONTH(@date) >= 20 AND DAYOFMONTH(@date) <= 21{
+		PRINT "bik";
+	}ELSE
+
+	IF MONTH(@date) >= 5 AND MONTH(@date) <= 6 AND DAYOFMONTH(@date) >= 22 AND DAYOFMONTH(@date) <= 21{
+		PRINT "blizanci";
+	}ELSE 
+
+	IF MONTH(@date) >= 6 AND MONTH(@date) <= 7 AND DAYOFMONTH(@date) >= 22 AND DAYOFMONTH(@date) <= 23{
+		PRINT "rak";
+	}ELSE 
+
+	IF MONTH(@date) >= 7 AND MONTH(@date) <= 8 AND DAYOFMONTH(@date) >= 24 AND DAYOFMONTH(@date) <= 22{
+		PRINT "lav";
+	}ELSE 
+
+	IF MONTH(@date) >= 8 AND MONTH(@date) <= 9 AND DAYOFMONTH(@date) >= 23 AND DAYOFMONTH(@date) <= 22{
+		PRINT "djevica";
+	}ELSE 
+
+	IF MONTH(@date) >= 9 AND MONTH(@date) <= 10 AND DAYOFMONTH(@date) >= 23 AND DAYOFMONTH(@date) <= 23{
+		PRINT "vaga";
+	}ELSE 
+
+	IF MONTH(@date) >= 10 AND MONTH(@date) <= 11 AND DAYOFMONTH(@date) >= 24 AND DAYOFMONTH(@date) <= 22{
+		PRINT "skorpion";
+	}ELSE 
+
+	IF MONTH(@date) >= 11 AND MONTH(@date) <= 12 AND DAYOFMONTH(@date) >= 22 AND DAYOFMONTH(@date) <= 21{
+		PRINT "strijelac";
+	}ELSE 
+
+	IF MONTH(@date) >= 12 AND MONTH(@date) <= 1 AND DAYOFMONTH(@date) >= 22 AND DAYOFMONTH(@date) <= 20{
+		PRINT "jarac";
+	}ELSE 
+
+	IF MONTH(@date) >= 1 AND MONTH(@date) <= 2 AND DAYOFMONTH(@date) >= 21 AND DAYOFMONTH(@date) <= 19{
+		PRINT "vodenjak";
+	}ELSE 
+
+	IF MONTH(@date) >= 2 AND MONTH(@date) <= 3 AND DAYOFMONTH(@date) >= 20 AND DAYOFMONTH(@date) <= 20{
+		PRINT "ribe";
+	}
