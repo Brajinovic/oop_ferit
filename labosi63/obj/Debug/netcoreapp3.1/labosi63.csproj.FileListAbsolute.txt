@@ -1,0 +1,14 @@
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.exe
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.deps.json
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.runtimeconfig.json
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.runtimeconfig.dev.json
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.dll
+C:\Users\Braja\Source\Repos\labosi6\labosi63\bin\Debug\netcoreapp3.1\labosi63.pdb
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.csproj.AssemblyReference.cache
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.AssemblyInfoInputs.cache
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.AssemblyInfo.cs
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.csproj.CoreCompileInputs.cache
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.dll
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.pdb
+C:\Users\Braja\Source\Repos\labosi6\labosi63\obj\Debug\netcoreapp3.1\labosi63.genruntimeconfig.cache
