@@ -1,0 +1,7 @@
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\bin\Debug\Memento.exe.config
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\bin\Debug\Memento.exe
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\bin\Debug\Memento.pdb
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\obj\Debug\Memento.exe
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Memento\obj\Debug\Memento.pdb

@@ -1,0 +1,7 @@
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\bin\Debug\Iterator.exe
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\obj\Debug\Iterator.exe
+C:\Users\Braja\Source\Repos\RPPONLabExercises6\Iterator\obj\Debug\Iterator.pdb
